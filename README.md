@@ -20,6 +20,10 @@ Interactive Power BI dashboards summarize key KPIs to support decisions on prici
 3. **Dashboard development**  
    - Build three Power BI dashboards: Business Performance, Passenger Behavior, and Route Performance.
    - Implement slicers for ticket source, route, month, gender, and age group to enable flexible exploration.
+   - Include illustrative figures stored in the `/Figure` folder, for example:  
+     - ![Business Performance Dashboard](Figure/Overall_Performance.jpg)  
+     - ![Passenger Behavior Dashboard](Figure/Passenger.jpg)  
+     - ![Route Performance Dashboard](Figure/Route.jpg)
 
 ## Technologies Used
 
