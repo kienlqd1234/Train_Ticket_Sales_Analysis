@@ -25,7 +25,7 @@ Interactive Power BI dashboards summarize key KPIs to support decisions on prici
    - Compare KPIs across channels, customer segments, and routes to identify high- and low-performing areas and confirm that results address the original business questions.
    
    **6. Deployment**  
-   - Build three Power BI dashboards—Business Performance, Passenger Behavior, and Route Performance—with interactive slicers (ticket source, route, month, gender, age group) to deliver insights to stakeholders.
+   - Build three Power BI dashboards—Business Performance, Passenger Behavior, and Route Performance—with interactive slicers (ticket source, route, month, gender, age group) to deliver insights to stakeholders. Detail in: ![Dashboard](https://app.fabric.microsoft.com/links/ZPb5-lMjjB?ctid=370fb3b8-3306-4890-9063-cc08be788257&pbi_source=linkShare)
    - Include illustrative figures stored in the `/Figure` folder, for example:  
      - ![Business Performance Dashboard](Figure/OverallPerformance.jpg)  
      - ![Passenger Behavior Dashboard](Figure/Passenger.jpg)  
