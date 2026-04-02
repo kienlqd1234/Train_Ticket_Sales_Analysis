@@ -7,19 +7,25 @@ End‑to‑end analysis of ticket sales from March to May 2023, focusing on busi
 The project uses transactional ticket data to quantify demand, revenue, and customer behavior across channels and routes.
 Interactive Power BI dashboards summarize key KPIs to support decisions on pricing, capacity planning, and marketing.
 
-## 🧭 Workflow
+## 🧭 Workflow: following CRISP-DM framework
 
-1. **Data preparation**  
-   - Load processed ticket data from Excel, validate schema, and standardize dates and categorical fields.
-   - Derive metrics such as net revenue, age groups, and combined route codes.
-
-2. **Exploratory analysis**  
-   - Analyze booking status, channel performance, route volumes, and passenger profiles in Python notebooks. 
-   - Aggregate KPIs at daily, customer, and route level for dashboard consumption.
-
-3. **Dashboard development**  
-   - Build three Power BI dashboards: Business Performance, Passenger Behavior, and Route Performance.
-   - Implement slicers for ticket source, route, month, gender, and age group to enable flexible exploration.
+   **1. Business understanding**  
+   - Analyze train ticket sales to monitor revenue, demand, and customer behavior across channels and routes, supporting pricing, capacity, and product decisions.
+   
+   **2. Data understanding**  
+   - Load the processed ticket dataset from Excel, inspect its structure, validate key fields, and profile distributions for booking status, channels, and routes.
+   
+   **3. Data preparation**  
+   - Clean and standardize dates and categorical fields, and engineer analysis-ready features such as net revenue, age groups, and combined route codes.
+   
+   **4 Modeling (analytical exploration)**  
+   - Use Python notebooks to study booking status, channel performance, route volumes, and passenger profiles, and to compute KPIs at daily, customer, and route levels for visualization.
+   
+   **5. Evaluation**  
+   - Compare KPIs across channels, customer segments, and routes to identify high- and low-performing areas and confirm that results address the original business questions.
+   
+   **6. Deployment**  
+   - Build three Power BI dashboards—Business Performance, Passenger Behavior, and Route Performance—with interactive slicers (ticket source, route, month, gender, age group) to deliver insights to stakeholders.
    - Include illustrative figures stored in the `/Figure` folder, for example:  
      - ![Business Performance Dashboard](Figure/OverallPerformance.jpg)  
      - ![Passenger Behavior Dashboard](Figure/Passenger.jpg)  
