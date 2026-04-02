@@ -74,7 +74,7 @@ Interactive Power BI dashboards summarize key KPIs to support decisions on prici
 - `Data/` – Processed dataset and data dictionary (or link to source data).  
 - `Preprocess/` – Jupyter notebooks for data cleaning and feature engineering.
 - `Analysis/` – Jupyter notebooks for data exploration and analysis.
-- `Reports/` – Exported Power BI dashboards (PDF) and Dashboard Power BI file (.pbix).  
+- `Reports/` – Exported Power BI dashboards (PDF) and Dashboard Power BI file (.pbix). `Booking Flow Analysis` specifies the data model, tracking events, tools, and key success metrics needed to monitor the end‑to‑end train booking journey, and presents a practical, experiment‑driven framework to diagnose funnel leaks and systematically improve conversion 
 - `README.md` – Project documentation (this file).
 
 Contributions and improvements to the analysis and dashboards are welcome.
