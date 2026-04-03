@@ -62,7 +62,7 @@ Interactive Power BI dashboards summarize key KPIs to support decisions on prici
   - Expand partnerships and marketing investment on high‑quality channels such as GYL, and replicate their best UX and messaging patterns on iOS and Android to improve conversion.
 
 - **Pricing and revenue management**  
-  - Use route‑level revenue metrics to refine pricing on top routes (for example HANOI–HCMC, NNG–HCMC, CXR–HCMC), protecting yield in peak months and applying targeted discounts only on softer periods and routes. 
+  - Use route‑level revenue metrics to refine pricing on top routes (for example HAN-HCM, CXR–HCM), protecting yield in peak months and applying targeted discounts only on softer periods and routes. 
 
 - **Customer targeting**  
   - Prioritize campaigns for the 21–30 age segment and other high‑value groups, combining app‑based promotions and personalized offers to lift repeat purchases and average spend. 
